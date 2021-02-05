@@ -1,6 +1,6 @@
 # Traffic-Light
 Traffic Light By Arduino UNO 
-For online simulator and code Here: (https://www.tinkercad.com/things/3gLItMDLJPp "https://www.tinkercad.com/things/3gLItMDLJPp")
+For online simulator and code Here: https://www.tinkercad.com/things/3gLItMDLJPp
 ##### simulation video
 [![Traffic Light with 7 segment display Arduino](https://raw.githubusercontent.com/AhmedElshimy1998/Traffic-Light/main/tumb.PNG)](http://www.youtube.com/watch?v=Oq7yP4WOuy0 "Traffic Light with 7 segment display Arduino")
 
