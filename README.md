@@ -13,3 +13,10 @@ For online simulator and code Here: https://www.tinkercad.com/things/3gLItMDLJPp
 ![](https://raw.githubusercontent.com/AhmedElshimy1998/Traffic-Light/main/a-1.png)
 
 ![](https://raw.githubusercontent.com/AhmedElshimy1998/Traffic-Light/main/a-2.png)
+
+##### Code With some Edite,
+<p>u can see ino file "arduino file" in file go to up with name (SomeEdite.ino)</p>
+
+![](https://raw.githubusercontent.com/AhmedElshimy1998/Traffic-Light/main/SomeEdite1.png)
+
+![](https://raw.githubusercontent.com/AhmedElshimy1998/Traffic-Light/main/SomeEdite2.png)
